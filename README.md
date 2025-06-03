@@ -1,1 +1,1 @@
-# school24.io
+# school24.github.io
